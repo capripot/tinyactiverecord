@@ -1,0 +1,11 @@
+{
+    "name": "capripot/tinyactiverecord",
+    "description": "Very Tiny Active Record component for MySQL",
+    "type": "library",
+    "keywords": "database",
+    "license": "MIT",
+    "authors": {
+      "name": "Capripot",
+      "email": "capripot@gmail.com"
+    }
+}
